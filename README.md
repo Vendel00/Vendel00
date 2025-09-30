@@ -1,7 +1,3 @@
-Vendel vagyok.
-16 éves
-177 cm 
-54kg
 
 
 <!---
